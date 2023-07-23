@@ -42,6 +42,7 @@
   <ItemGroup>
      <Compile Include="Assets/LogicManager.cs" />
      <Compile Include="Assets/Food.cs" />
+     <Compile Include="Assets/NPC.cs" />
      <Compile Include="Assets/Snake.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.4f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
